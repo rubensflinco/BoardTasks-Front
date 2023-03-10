@@ -37,8 +37,8 @@ export default function PaginaTarefas() {
 
     return (
         <div className="container mt-4">
-            <Link to="/sair" className="btn btn-outline-danger position-fixed top-0 end-0 me-4 mt-4" style={{ textDecoration: 'none' }}>
-                🚪Sair
+            <Link to="/sair" title="Clique para sair!" className="btn btn-outline-danger position-fixed top-0 end-0 me-4 mt-4" style={{ textDecoration: 'none' }}>
+                🚪
             </Link>
 
             <h1 className="text-center mb-4">🛠️ Minhas Tarefas</h1>
