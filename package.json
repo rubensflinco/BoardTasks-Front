@@ -1,6 +1,11 @@
 {
   "name": "boardtasks-front",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rubens Flinco",
+    "email": "contato@rubensflinco.com.br",
+    "url": "https://rubensflinco.com.br"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
